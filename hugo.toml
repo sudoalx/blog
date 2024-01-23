@@ -1,0 +1,32 @@
+baseURL = 'https://sudoalex.dev/'
+languageCode = 'en-us'
+title = 'sudoalex.dev'
+theme = "paperMod"
+
+[params]
+defaultTheme = "auto"
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+author = ["Alex"]
+comments = true
+ShowShareButtons = true
+ShowReadingTime = true
+ShowBreadCrumbs = true
+
+
+[params.homeInfoParams]
+Title = "Alex's Blog"
+Content = "A blog about programming, Linux, and other tech stuff."
+
+[[params.socialIcons]]
+name = "GitHub"
+url= "https://github.com/sudoalx"
+
+[[params.socialIcons]]
+name = "Telegram"
+url= "https://t.me/sudoalx"
+
+[[params.socialIcons]]
+name = "mastodon"
+url= "https://mastodon.social/@sudoalex"
+

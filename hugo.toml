@@ -30,3 +30,6 @@ url= "https://t.me/sudoalx"
 name = "mastodon"
 url= "https://mastodon.social/@sudoalex"
 
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]

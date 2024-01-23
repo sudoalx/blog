@@ -1,6 +1,6 @@
-baseURL = 'https://sudoalex.dev/'
+baseURL = 'https://blog.sudoalex.dev/'
 languageCode = 'en-us'
-title = 'sudoalex.dev'
+title = "Alex's Blog"
 theme = "paperMod"
 
 [params]
@@ -15,7 +15,7 @@ ShowBreadCrumbs = true
 
 
 [params.homeInfoParams]
-Title = "Alex's Blog"
+Title = "The Blog of Alex"
 Content = "A blog about programming, Linux, and other tech stuff."
 
 [[params.socialIcons]]

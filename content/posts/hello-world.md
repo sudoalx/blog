@@ -8,10 +8,10 @@ Welcome to my new blog! This is my first post on this new blog I set up. I'm usi
 
 ## Why Hugo?
 
-I have tried blogging twice before, but both times I failed successfully ✅. I'm hoping that this time will be different. My previous attempts were Blogspot and WordPress.  
+I have tried blogging twice before, but both times I failed successfully ✅. I'm hoping that this time will be different. My previous attempts were on Blogspot and Wordpress.
 
-Blogspot is not very customizable and it is ugly in my opinion, but hey, I was just a kid and didn't know much about web development back then.  
-On the other hand, Wordpress was a little overkill for what I needed. I didn't need a full blown CMS for a simple blog. And even though I have a VPS, I didn't want to spend time maintaining yet another WordPress installation, plus it can get very slow when accessed from locations far away from the server.
+Blogspot is not very customizable and it's ugly (in my opinion), but hey, I was just a kid and didn't know much about web development back then.  
+On the other hand, Wordpress was a little overkill for my needs. I didn't need a full blown CMS for a simple blog. And even though I have a VPS, I didn't want to spend time maintaining yet another WordPress installation, plus it can get very slow when accessed from locations far away from the server.
 
 I have been using Hugo for a while now on personal projects and some gigs, I love it since the first time I used it. It is blazing fast, easy to use, very simple and static. I don't need to worry about security or maintenance. I just need to write my posts in markdown, push them to my git repo and let the CI/CD pipeline do the rest.
 

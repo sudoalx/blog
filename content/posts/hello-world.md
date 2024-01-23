@@ -8,7 +8,7 @@ Welcome to my new blog! This is my first post on this new blog I set up. I'm usi
 
 ## Why Hugo?
 
-I have tried blogging a 2 times before, but both times I failed successfully ✅. I'm hoping that this time will be different. My previous attempts were Blogspot and WordPress.  
+I have tried blogging twice before, but both times I failed successfully ✅. I'm hoping that this time will be different. My previous attempts were Blogspot and WordPress.  
 
 Blogspot is not very customizable and it is ugly in my opinion, but hey, I was just a kid and didn't know much about web development back then.  
 On the other hand, Wordpress was a little overkill for what I needed. I didn't need a full blown CMS for a simple blog. And even though I have a VPS, I didn't want to spend time maintaining yet another WordPress installation, plus it can get very slow when accessed from locations far away from the server.

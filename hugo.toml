@@ -3,6 +3,30 @@ languageCode = 'en-us'
 title = "Alex's Blog"
 theme = "paperMod"
 
+
+[menus]
+[[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 10
+[[menus.main]]
+    name = 'Archive'
+    pageRef = '/archive'
+    weight = 20
+[[menus.main]]
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 30
+[[menus.main]]
+    name = 'Search'
+    pageRef = '/search'
+    weight = 40
+[[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 50
+
+
 [params]
 defaultTheme = "auto"
 ShowPostNavLinks = true
@@ -12,6 +36,7 @@ comments = true
 ShowShareButtons = true
 ShowReadingTime = true
 ShowBreadCrumbs = true
+
 
 
 [params.homeInfoParams]
@@ -30,6 +55,9 @@ url= "https://t.me/sudoalx"
 name = "mastodon"
 url= "https://mastodon.social/@sudoalex"
 
+[[params.homeInfoParams.buttons]]
+name= "Archive"
+url= "/archive"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]

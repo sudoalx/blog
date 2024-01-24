@@ -14,7 +14,7 @@ I have tried blogging twice before, but both times I failed successfully ✅. I'
 Blogspot is not very customizable and it's ugly (in my opinion), but hey, I was just a kid and didn't know much about web development back then.  
 On the other hand, Wordpress was a little overkill for my needs. I didn't need a full blown CMS for a simple blog. And even though I have a VPS, I didn't want to spend time maintaining yet another WordPress installation, plus it can get very slow when accessed from locations far away from the server.
 
-I have been using Hugo for a while now on personal projects and some gigs, I've loved it since the first time I used it. It is blazing fast, easy to use, very simple and static. I don't need to worry about security or maintenance. I just need to write my posts in markdown, push them to my git repo and let the CI/CD pipeline do the rest.
+I have been using Hugo for a while now on personal projects and some gigs, I've loved it since the first time I used it. It is blazing fast, easy to use, very simple and static. I don't need to worry about security or maintenance. With Hugo I can just write my posts in markdown, push them to my git repo and let Cloudflare pages' CI/CD do the rest. I can also use my own domain name and Cloudflare's CDN for free.
 
 ## Why am I blogging again?
 

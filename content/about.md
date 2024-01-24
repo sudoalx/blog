@@ -80,3 +80,9 @@ I'm also working on a couple of personal projects, one of them is the tool I men
 ## The end
 
 I think that's all I have to say about myself for now in this mini autobiography which is probably longer than an about page should be 😆. I hope I can keep this part of my website updated as I learn new things and do new stuff. Thanks for reading this far, I hope you have a great day! 😄
+
+### PS: Shifting the Focus to a Friend
+
+Having covered everything I could think of about myself, let's shift the focus to one of my friends and explore his website:
+
+- Nick, [nift4.org](https://nift4.org): Nick's initiative to start a blog inspired me to finally start working on my website and also include a blog.

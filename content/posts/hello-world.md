@@ -2,6 +2,7 @@
 title = 'Hello World!'
 date = 2024-01-22T23:30:50-06:00
 draft = false
+tags = ['blog', 'hugo', 'introduction']
 +++
 
 Welcome to my new blog! This is my first post on this new blog I set up. I'm using the [Hugo](https://gohugo.io/) static site generator.  
